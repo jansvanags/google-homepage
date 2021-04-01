@@ -1,3 +1,30 @@
-h1{
-    color:green;
+
+.navigation {
+    list-style-type:none;
+    text-align:end;
+}
+li{
+    display:inline;  
+}
+.uppernav{
+    text-decoration:none;
+    color:black;
+    font-size:12px;
+    margin:8px;
+}
+.uppernav:hover{
+    text-decoration:underline;
+}
+#sign{
+    background-color:#1a73e8;
+    border-radius:4px;
+    padding:9px 23px;
+    font-size:14px;
+    border:1px solid transparent;
+    color:white;
+    font-weight:500px;
+    letter-spacing:.25px;
+}
+#logo{
+    text-align:center;
 }
