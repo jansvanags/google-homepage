@@ -1,0 +1,29 @@
+[33mcommit 85f9c7c845f177009f15853c2b18bfe8443fe775[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jans <jans.vanags@inbox.lv>
+Date:   Tue Apr 6 22:00:15 2021 +0300
+
+    Almost done
+
+[33mcommit 3d3e251381b6980fdb45e43055ed936a01cf73ac[m
+Author: Jans <jans.vanags@inbox.lv>
+Date:   Fri Apr 2 00:02:02 2021 +0300
+
+    add search bar
+
+[33mcommit c625eb218bb9cf01efb818fd749029a6481c64ad[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jans <jans.vanags@inbox.lv>
+Date:   Thu Apr 1 21:16:47 2021 +0300
+
+    add logo and top navbar
+
+[33mcommit 8c0531cd3c5215ef9c31bd82e37fbfd255bb9701[m
+Author: Jans <jans.vanags@inbox.lv>
+Date:   Thu Apr 1 20:26:52 2021 +0300
+
+    Add style.css and index.html
+
+[33mcommit 2c106ea995c6b7a19c14cc9ef23dec4b46b0b23d[m
+Author: Jans <jans.vanags@inbox.lv>
+Date:   Thu Apr 1 16:01:12 2021 +0300
+
+    Add README.md

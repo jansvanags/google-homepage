@@ -49,7 +49,7 @@ li{
     
 }
 #search{
-    font-size:20px;
+    font-size:14px;
     width:550px;
     height:42px;
     border-radius:20px;
@@ -154,5 +154,8 @@ hr{
 .otherhalf{
     text-align:end;
     float:right;
-    
+}
+#lv:hover{
+    text-decoration:none;
+    cursor:default;
 }
